@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Calcular Gastos</string>
+    <string name="titulo_app">Calcular seus gastos</string>
+    <string name="texto_valor">Digite o valor que você gastou:</string>
+    <string name="hint_valor">valor</string>
+    <string name="texto_botao">Mostrar gastos</string>
 </resources>
